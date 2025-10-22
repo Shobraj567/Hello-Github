@@ -1,2 +1,2 @@
 # Hello-Github
-this is for practicalmpurpose and my first repo
+this is for practical purpose and my first repo
